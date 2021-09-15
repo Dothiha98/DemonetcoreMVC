@@ -16,8 +16,10 @@ namespace demoMVC.Controllers
         // 
         // GET: /HelloWorld/Welcome/ 
 
-        public IActionResult GetName()
+        public IActionResult GetName(string name, int numTimes = 1)
         {
+            ViewData["Message"] = "Hello " + name;
+            ViewData["NumTimes"] = numTimes;
             return View(); 
         }
     }

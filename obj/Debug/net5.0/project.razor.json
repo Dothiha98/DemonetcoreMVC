@@ -15662,6 +15662,11 @@
       "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\HelloWorld\\GetName.cshtml",
+      "TargetPath": "Views\\HelloWorld\\GetName.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
