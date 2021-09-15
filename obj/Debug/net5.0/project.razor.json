@@ -15619,6 +15619,11 @@
   "RootNamespace": "demoMVC",
   "Documents": [
     {
+      "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\Shared\\_LayoutNew.cshtml",
+      "TargetPath": "Views\\Shared\\_LayoutNew.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -15631,6 +15636,11 @@
     {
       "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\dotnetcore\\demoMVC\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
